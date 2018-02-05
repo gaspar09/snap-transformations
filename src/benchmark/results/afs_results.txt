@@ -1,0 +1,20 @@
+Load from text file
+===================
+
+TTABLE: 64.419431
+TUNGRAPH: 7630.032797, 7757.902905
+TNEANET: 2215.271094
+TUNGRAPH: 7011.535799
+
+
+Save and load to binary
+=======================
+
+TUNGRAPH save binary: 51.162540
+TUNGRAPH load binary: 71.509428
+
+
+Conversions
+===========
+
+convert TUNGRAPH to TNGRAPH: 78397.099196
